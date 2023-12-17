@@ -2,4 +2,4 @@
 ---
 - Turtle crossing game - Python program using Turtle Graphics
 ---
-![Crossing game](https://i.ytimg.com/vi/nl9BCHzkyvY/sddefault.jpg?v=63eb6840)
+![Capture - final](https://github.com/CristinaAlina/turtle-crossing/assets/148490551/b2465714-6708-45c8-b9fc-aff3d27aaa53)
